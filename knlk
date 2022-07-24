@@ -1,0 +1,23 @@
+[33mcommit ef8ab0e7df1ed9cc7477feddcb7ad2a1a3f39d20[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: reebak <106405926+rybalchenko-eugene@users.noreply.github.com>
+Date:   Sun Jul 24 15:07:15 2022 +0300
+
+    Итоговый алгоритм
+
+[33mcommit 66a178cf3388cea51866b71888c8c11f89c17a1e[m
+Author: reebak <106405926+rybalchenko-eugene@users.noreply.github.com>
+Date:   Sun Jul 24 14:43:42 2022 +0300
+
+    Обновление Tests
+
+[33mcommit b6507f588fd61c4c7b3823aa0598adfb8f780c60[m
+Author: reebak <106405926+rybalchenko-eugene@users.noreply.github.com>
+Date:   Sun Jul 24 14:38:50 2022 +0300
+
+    Добавлено Tests
+
+[33mcommit 82705b359171a0920214632672d6fdb9dd0e560d[m
+Author: reebak <106405926+rybalchenko-eugene@users.noreply.github.com>
+Date:   Sun Jul 24 14:30:43 2022 +0300
+
+    Initial commit
